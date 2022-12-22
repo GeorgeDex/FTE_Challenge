@@ -39,7 +39,7 @@ public class UpdatePostsTests extends BaseTests{
         String newBody = "Fake body";
         String author = "FakeUsr";
         loginSteps.logIn();
-        
-        //I gave uo on this one
+
+        //I gave up on this one
     }
 }
